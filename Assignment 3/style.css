@@ -1,0 +1,133 @@
+
+.home{
+background-image: url('./images/drew-coffman-1872.jpg');
+background-size: 100% 100% ;
+
+
+
+}
+.logo{
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    width: 20%;
+
+}
+.nav1{
+    width:60%;
+    display: inline-block;
+    text-align: left;
+}
+.nav2{
+    width:38%;
+    display: inline-block;
+
+}
+
+.logo img{
+    width:100%;
+}
+.Text{
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    color: white;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+
+}
+
+.button1 button{
+    background-color: #8E7754;
+    color: white;
+    font-size: large;
+
+
+}
+.button2 button{
+    font-size: large;
+    background-color: transparent;
+    color: white;
+
+}
+
+.welcome{
+    display: block;
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+    font-size: larger;
+
+
+}
+
+
+.who1{
+    vertical-align: top;
+
+    width:49%;
+    display: inline-block;
+    text-align: center;
+
+
+}
+.who2{
+    vertical-align: top;
+    width: 49%;
+    display: inline-block;
+    text-align: left;
+    
+
+}
+.who1 img{
+    width:80%
+}
+.line{
+    display: flex;
+}
+.line img{
+    width:9%
+}
+
+.loc1{
+    vertical-align: top;
+    width: 40%;
+    display: inline-block;
+    text-align: left;
+    margin-left: 60px;
+    
+}
+
+.loc2{
+    vertical-align: top;
+    width:49%;
+    display: inline-block;
+    text-align: center;
+    margin-left: 60px;
+
+}
+
+.loc2 img {
+    width:80%
+
+}
+
+.our-baking{
+    text-align: center;
+}
+
+.bread{
+    width:30%;
+    float:left;
+    text-align: center;
+    margin-left: 30px;
+    
+}
+.bread img{
+    width: 100%;
+}
+.clr{
+    clear: both;
+}
